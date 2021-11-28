@@ -1,18 +1,3 @@
 {
-  "users": [
-    {
-      "email": "andre@mail.com",
-      "password": "$2a$10$hHEXKhPGwPST.lNHfQ/i8eChENE6eJjlGR0dBmaxwch/3GEa7nw/.",
-      "nome completo": "André da Silvasauro",
-      "nome de usuário": "silvasauro!",
-      "id": 1
-    },
-    {
-      "email": "andre2@mail.com",
-      "password": "$2a$10$ipTS7X2C85Rw.X6wPHQmUu4gAZo13p14TPuVKRzYlJ1R1ddlac4gC",
-      "nome completo": "André da Silvasauro",
-      "nome de usuário": "silvasauro!",
-      "id": 2
-    }
-  ]
+  "users": []
 }

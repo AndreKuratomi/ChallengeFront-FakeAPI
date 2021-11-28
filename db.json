@@ -1,3 +1,11 @@
 {
-  "users": []
+  "users": [
+    {
+      "email": "andre2@mail.com",
+      "password": "$2a$10$YdGokuv4G8wFF6CFCmVb4uK/ijKDeNMVEVTonFxEfL9Kz7ve5ifiK",
+      "nome completo": "André da Silvasauro",
+      "nome de usuário": "silvasauro!",
+      "id": 1
+    }
+  ]
 }

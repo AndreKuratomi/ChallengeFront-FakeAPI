@@ -87,6 +87,14 @@ code .
 node src/server.js
 ```
 
+Se tudo correr bem o terminal deve exibir uma mensagem semelhante a esta:
+
+```
+JSON Server is running on port: 3001
+```
+
+Isto habilitará as permissões necessárias para o frontend operar. Ambos os repositórios devem estar baixados e funcionando simultaneamente.
+
 <br>
 
 ## Referências

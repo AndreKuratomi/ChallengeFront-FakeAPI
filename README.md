@@ -34,7 +34,7 @@ git init
 <h5>1. Fazer o clone do reposítório <span style="text-decoration: underline">Anagramas2</span> na sua máquina pelo terminal do computador ou pelo do IDE:</h5>
 
 ```
-https://github.com/AndreKuratomi/challenge-front.git
+https://github.com/AndreKuratomi/challenge-json-server.git
 ```
 
 <p>Entrar na pasta criada:</p>

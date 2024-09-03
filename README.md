@@ -10,8 +10,8 @@
 
 ## Translations
 
-- [English / Inglês](https://github.com/AndreKuratomi/ChallengeFront/)
 - [Português brasileiro](./.multilingual_readmes/README_pt-br.md)
+- [English / Inglês](https://github.com/AndreKuratomi/ChallengeFront/)
 
 <br>
 
@@ -21,7 +21,7 @@
  
 The project <b>ChallengeFront</b> is a fullstack simulation of operations on <b>Instagram</b>, with user register, login and dashboard access with the possibility to join and unjoin contacts. 
 
-This repository uses the <b>fakeAPI</b> <strong>JSON-Server</strong>.
+This repository uses the <b>fakeAPI</b> <strong>[JSON-Server](https://www.npmjs.com/package/json-server)</strong>.
 
 <br>
 

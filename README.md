@@ -88,19 +88,11 @@ yarn
 code .
 ```
 
-<p>By the IDE's terminal run <b>yarn</b> to exibit the frontend:</p>
-
-```
-yarn start
-```
-
 <p>And finally run the server:</p>
 
 ```
 node src/server.js
 ```
-
-Obs: Because of Instagram's logo legal issues and the use of HTTP Post for register and login the application's vercel link is unabled to be used by the browser. So it is only possible to run the application by running it locally.
 
 <br>
 

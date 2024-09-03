@@ -9,9 +9,9 @@
 
 # Descrição
 
-<b>ChallengeFront-FakeAPI</b> é uma simulação fullstack de operações no <b>Instagram</b>, com cadastro, login e dashboard com a possibilidade de adicionar e excluir contatos. Este é o repositório backend que utiliza a fakeAPI <strong>JSON-Server</strong>.
+<b>ChallengeFront-FakeAPI</b> é o repositório backend do projeto <b>ChallengeFront</b>. Este projeto é uma simulação fullstack de operações no <b>Instagram</b>, com cadastro, login e dashboard com a possibilidade de adicionar e excluir contatos. Este repositório utiliza a fakeAPI <strong>JSON-Server</strong>.
 
-A aplicação utiliza como frontend a linguagem <strong>Javascript</strong> e sua biblioteca <strong>React</strong> disponível no link abaixo:
+O repositório frontend está disponível no link abaixo:
 <strong></strong>
 https://github.com/AndreKuratomi/challenge-front/
 

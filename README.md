@@ -100,7 +100,7 @@ If everything goes well the terminal may display a message similar to this one:
 JSON Server is running on port: 3001
 ```
 
-This will enable the frontend repository to work while running.
+This will enable the frontend repository to work while running. Both repositories mau be downloaded and run simultaneously.
 
 <br>
 

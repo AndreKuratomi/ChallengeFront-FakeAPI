@@ -1,4 +1,4 @@
-## ChallengeFront-FakeAPI
+# ChallengeFront-FakeAPI
 
 - [Descrição](#descrição)
 - [Instalação](#instalação)
@@ -7,18 +7,13 @@
 
 <br>
 
-# Descrição
+## Descrição
 
-<b>ChallengeFront-FakeAPI</b> é o repositório backend do projeto <b>ChallengeFront</b>. Este projeto é uma simulação fullstack de operações no <b>Instagram</b>, com cadastro, login e dashboard com a possibilidade de adicionar e excluir contatos. Este repositório utiliza a fakeAPI <strong>JSON-Server</strong>.
-
-O repositório frontend está disponível no link abaixo:
-<strong></strong>
-https://github.com/AndreKuratomi/challenge-front/
-
+<b>ChallengeFront-FakeAPI</b> é o repositório backend do projeto <b>[ChallengeFront](https://github.com/AndreKuratomi/challenge-front/)</b>. Este projeto é uma simulação fullstack de operações no <b>Instagram</b>, com cadastro, login e dashboard com a possibilidade de adicionar e excluir contatos. Este repositório utiliza a fakeAPI <strong>JSON-Server</strong>.
 <br>
 
 
-# Instalação
+## Instalação
 
 <h5>0. Primeiramente, é necessário já ter instalado na própria máquina:</h5>
 
@@ -64,8 +59,7 @@ code .
 
 <br>
 
-
-# Utilização
+## Utilização
 
 <p>Para exibir o frontend para o usuário utlizando o VSCode utilizamos no terminal o seguinte comando:</p>
 
@@ -73,9 +67,6 @@ code .
 yarn start
 ```
 
-
-
-
-# Termos de uso
+## Termos de uso
 
 <p>Esta aplicação atende a fins exclusivamente didáticos e não possui qualquer intuito comercial.</p>

@@ -15,9 +15,9 @@
 
 <br>
 
-## Descrição
+## Sobre
 
-<b>ChallengeFront-JSONServer</b> é o repositório backend do projeto <b>[ChallengeFront](https://github.com/AndreKuratomi/ChallengeFront/)</b>. Este projeto é uma simulação fullstack de operações no <b>Instagram</b>, com cadastro, login e dashboard com a possibilidade de adicionar e excluir contatos. Este repositório utiliza a fakeAPI <strong>JSON-Server</strong>.
+<b>ChallengeFront-JSONServer</b> é o repositório backend do projeto <b>[ChallengeFront](https://github.com/AndreKuratomi/ChallengeFront/)</b>. Este projeto é uma simulação fullstack de operações no <b>Instagram</b>, com cadastro, login e dashboard com a possibilidade de adicionar e excluir contatos. Este repositório utiliza a <b>fakeAPI</b> <strong>[JSON-Server](https://www.npmjs.com/package/json-server)</strong>.
 <br>
 
 
